@@ -1,4 +1,4 @@
-# Na Era do Gelo
+```# Na Era do Gelo
 
 Este é um projeto de desenvolvimento de um site para a lanchonete "Na Era do Gelo" usando HTML, Tailwind CSS e JavaScript. O objetivo deste projeto é criar um site responsivo e interativo com design moderno.
 
@@ -13,7 +13,7 @@ Confira a demonstração ao vivo do site:
 - **Tailwind CSS**: Framework CSS para estilização rápida e eficiente.
 - **JavaScript**: Linguagem de programação usada para adicionar interatividade ao site.
 
-## Estrutura do Projeto
+## Estrutura do Projeto```
 
 A estrutura de diretórios do projeto é a seguinte:
 
