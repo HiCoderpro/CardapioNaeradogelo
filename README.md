@@ -37,7 +37,7 @@ CardapioNaeradogelo/
 
 
 ## Instalação
-
+'''
 Siga os passos abaixo para configurar o projeto localmente:
 
 1. Clone o repositório:
@@ -59,7 +59,7 @@ Siga os passos abaixo para configurar o projeto localmente:
     ```sh
     npx tailwindcss -i ./styles/input.css -o ./styles/output.css --watch
     ```
-
+'''
 5. Abra o arquivo `index.html` no seu navegador para ver o site.
 
 ## Uso
