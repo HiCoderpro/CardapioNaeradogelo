@@ -161,7 +161,7 @@ checkoutBtn.addEventListener("click", function(){
 function checkRestauranteOpen(){
     const data = new Date();
     const hora = data.getHours();
-    return hora >= 10 && hora < 23
+    return hora >= 09 && hora < 23
     //se o retorno for true ele esta aberto!
 
 }
